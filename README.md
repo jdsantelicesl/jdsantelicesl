@@ -3,13 +3,9 @@
 
 <ul>
 <li>🎓 I am currently studying at Sacramento City College. I plan to transfer to UC Berkley in Fall 2025 to study Electrical Engineering and Computer Science.</li>
-<br>
 <li>🤖 I am very passionate about robotics. I build robotics projects by using microcontrollers (Arduino/Raspberry pi) and self-designed parts.</li>
-<br>
 <li>🚀I love participating in hackathons and building large scale programming projects (Web dev, app dev, and more). I hope to create a startup someday.</li>
-<br>
 <li>🛠️ I like to design prototype parts. This includes OBJ files to 3d print, PBCs, and other manufactured parts.</li>
-<br>
 <li>🔬 I aspire to do more research in my free time, especially in the areas of neural networks, deep learning, physics, and differential equations.</li>
 </ul>
 
