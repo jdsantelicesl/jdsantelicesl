@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Santelices</h1>
 <h3 align="center">Electrical Engineering and Computer Science Student</h3>
 
-UC Berkeley EECS student seeking opportunities to apply software development experience while expanding into machine learning, robotics, or data-driven research.
+UC Berkeley EECS student seeking opportunities to apply software development experience while expanding into machine learning and robotics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
